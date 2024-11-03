@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COMENTARIOS\\BEComentarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DEA4E1-D696-44C9-9A6C-ACC08C5884DF}|BEComentarios\\BEComentarios.csproj|c:\\users\\aldai\\onedrive\\documentos\\hola mundo\\angular completo\\comentarios\\becomentarios\\becomentarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DEA4E1-D696-44C9-9A6C-ACC08C5884DF}|BEComentarios\\BEComentarios.csproj|solutionrelative:becomentarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DEA4E1-D696-44C9-9A6C-ACC08C5884DF}|BEComentarios\\BEComentarios.csproj|C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COMENTARIOS\\BEComentarios\\becomentarios\\controllers\\comentariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DEA4E1-D696-44C9-9A6C-ACC08C5884DF}|BEComentarios\\BEComentarios.csproj|solutionrelative:becomentarios\\controllers\\comentariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DEA4E1-D696-44C9-9A6C-ACC08C5884DF}|BEComentarios\\BEComentarios.csproj|C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COMENTARIOS\\BEComentarios\\becomentarios\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DEA4E1-D696-44C9-9A6C-ACC08C5884DF}|BEComentarios\\BEComentarios.csproj|solutionrelative:becomentarios\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DEA4E1-D696-44C9-9A6C-ACC08C5884DF}|BEComentarios\\BEComentarios.csproj|C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COMENTARIOS\\BEComentarios\\becomentarios\\models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DEA4E1-D696-44C9-9A6C-ACC08C5884DF}|BEComentarios\\BEComentarios.csproj|solutionrelative:becomentarios\\models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DEA4E1-D696-44C9-9A6C-ACC08C5884DF}|BEComentarios\\BEComentarios.csproj|C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COMENTARIOS\\BEComentarios\\becomentarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9DEA4E1-D696-44C9-9A6C-ACC08C5884DF}|BEComentarios\\BEComentarios.csproj|solutionrelative:becomentarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COMENTARIOS\\BEComentarios\\BEComentarios\\appsettings.json",
+              "RelativeDocumentMoniker": "BEComentarios\\appsettings.json",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COMENTARIOS\\BEComentarios\\BEComentarios\\appsettings.json",
+              "RelativeToolTip": "BEComentarios\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T04:03:18.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COMENTARIOS\\BEComentarios\\BEComentarios\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BEComentarios\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COMENTARIOS\\BEComentarios\\BEComentarios\\AplicationDbContext.cs",
+              "RelativeToolTip": "BEComentarios\\AplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T04:00:24.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COMENTARIOS\\BEComentarios\\BEComentarios\\Models\\Comentario.cs",
+              "RelativeDocumentMoniker": "BEComentarios\\Models\\Comentario.cs",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COMENTARIOS\\BEComentarios\\BEComentarios\\Models\\Comentario.cs",
+              "RelativeToolTip": "BEComentarios\\Models\\Comentario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:57:11.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COMENTARIOS\\BEComentarios\\BEComentarios\\Program.cs",
+              "RelativeDocumentMoniker": "BEComentarios\\Program.cs",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COMENTARIOS\\BEComentarios\\BEComentarios\\Program.cs",
+              "RelativeToolTip": "BEComentarios\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAABUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:51:47.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComentarioController.cs",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COMENTARIOS\\BEComentarios\\BEComentarios\\Controllers\\ComentarioController.cs",
+              "RelativeDocumentMoniker": "BEComentarios\\Controllers\\ComentarioController.cs",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COMENTARIOS\\BEComentarios\\BEComentarios\\Controllers\\ComentarioController.cs",
+              "RelativeToolTip": "BEComentarios\\Controllers\\ComentarioController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowGsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:45:55.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

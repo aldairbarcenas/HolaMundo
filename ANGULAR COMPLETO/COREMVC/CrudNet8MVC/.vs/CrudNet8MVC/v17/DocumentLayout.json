@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8485EBD6-DDBA-4E8A-9B7B-CDFBD0E99C00}|CrudNet8MVC\\CrudNet8MVC.csproj|C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\crudnet8mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8485EBD6-DDBA-4E8A-9B7B-CDFBD0E99C00}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8485EBD6-DDBA-4E8A-9B7B-CDFBD0E99C00}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\aldai\\onedrive\\documentos\\hola mundo\\angular completo\\coremvc\\crudnet8mvc\\crudnet8mvc\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8485EBD6-DDBA-4E8A-9B7B-CDFBD0E99C00}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8485EBD6-DDBA-4E8A-9B7B-CDFBD0E99C00}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\aldai\\onedrive\\documentos\\hola mundo\\angular completo\\coremvc\\crudnet8mvc\\crudnet8mvc\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8485EBD6-DDBA-4E8A-9B7B-CDFBD0E99C00}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8485EBD6-DDBA-4E8A-9B7B-CDFBD0E99C00}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\aldai\\onedrive\\documentos\\hola mundo\\angular completo\\coremvc\\crudnet8mvc\\crudnet8mvc\\views\\inicio\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8485EBD6-DDBA-4E8A-9B7B-CDFBD0E99C00}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\inicio\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8485EBD6-DDBA-4E8A-9B7B-CDFBD0E99C00}|CrudNet8MVC\\CrudNet8MVC.csproj|C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\crudnet8mvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8485EBD6-DDBA-4E8A-9B7B-CDFBD0E99C00}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8485EBD6-DDBA-4E8A-9B7B-CDFBD0E99C00}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\aldai\\onedrive\\documentos\\hola mundo\\angular completo\\coremvc\\crudnet8mvc\\crudnet8mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8485EBD6-DDBA-4E8A-9B7B-CDFBD0E99C00}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8485EBD6-DDBA-4E8A-9B7B-CDFBD0E99C00}|CrudNet8MVC\\CrudNet8MVC.csproj|c:\\users\\aldai\\onedrive\\documentos\\hola mundo\\angular completo\\coremvc\\crudnet8mvc\\crudnet8mvc\\views\\inicio\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8485EBD6-DDBA-4E8A-9B7B-CDFBD0E99C00}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\inicio\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8485EBD6-DDBA-4E8A-9B7B-CDFBD0E99C00}|CrudNet8MVC\\CrudNet8MVC.csproj|C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\crudnet8mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8485EBD6-DDBA-4E8A-9B7B-CDFBD0E99C00}|CrudNet8MVC\\CrudNet8MVC.csproj|solutionrelative:crudnet8mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Borrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Views\\Inicio\\Borrar.cshtml",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeToolTip": "CrudNet8MVC\\Views\\Inicio\\Borrar.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADUAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T23:54:43.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Views\\Inicio\\Detalle.cshtml",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Detalle.cshtml",
+              "RelativeToolTip": "CrudNet8MVC\\Views\\Inicio\\Detalle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T23:38:36.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Editar.cshtml",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Views\\Inicio\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Editar.cshtml",
+              "RelativeToolTip": "CrudNet8MVC\\Views\\Inicio\\Editar.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T18:28:22.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Crear.cshtml",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Views\\Inicio\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Crear.cshtml",
+              "RelativeToolTip": "CrudNet8MVC\\Views\\Inicio\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T17:38:04.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CrudNet8MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T05:09:25.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Views\\Inicio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\CrudNet8MVC\\Views\\Inicio\\Index.cshtml",
+              "RelativeToolTip": "CrudNet8MVC\\Views\\Inicio\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T04:50:05.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\CrudNet8MVC\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\CrudNet8MVC\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "CrudNet8MVC\\Controllers\\InicioController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAwHUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:45:26.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\CrudNet8MVC\\Program.cs",
+              "RelativeDocumentMoniker": "CrudNet8MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Documentos\\HOLA MUNDO\\ANGULAR COMPLETO\\COREMVC\\CrudNet8MVC\\CrudNet8MVC\\Program.cs",
+              "RelativeToolTip": "CrudNet8MVC\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:43:14.666Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

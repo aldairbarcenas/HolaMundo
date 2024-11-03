@@ -1,0 +1,42 @@
+<div class="container">
+  <div class="row" style="width: 100%;">
+    <div class="col-lg-6 offset-lg-3">
+      <div class="card text-center" style="padding: 20px;">
+        <h3>LOGIN</h3>
+
+        <app-loading *ngIf="loading "></app-loading>
+        <form [formGroup]="login" (ngSubmit)="log()" style="padding-top: 10px;">
+          <div class="form-group" style="text-align: start;">
+            <input type="text" class="form-control" placeholder="USUARIO" formControlName="usuario">
+            <span class="text-danger m-lg-2"
+            *ngIf="login.get('usuario')?.hasError('required') && login.get('usuario')?.touched">
+
+              El usuario <strong>es requerido</strong>
+            </span>
+          </div>
+
+          <br>
+
+          <div class="form-group" style="text-align: start;">
+            <input type="password" class="form-control" placeholder="CONTRASEÑA" formControlName="contraseña">
+            <span class="text-danger m-lg-2"
+            *ngIf="login.get('contraseña')?.hasError('required') && login.get('contraseña')?.touched">
+              La contraseña <strong>es requerida</strong>
+            </span>
+          </div>
+          <br>
+
+          <div class="form-group">
+            <button class="btn btn-primary me-2 mb-3 btn-login" type="submit" [disabled]="login.invalid" >ACEPTAR</button>
+            <button class="btn btn-secondary mb-3" routerLink="/inicio">VOLVER</button>
+          </div>
+
+          <div class="form-group">
+            <a style="color: #f05f44; cursor: pointer; " routerLink="/inicio/register">CREAR CUENTA</a>
+          </div>
+
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

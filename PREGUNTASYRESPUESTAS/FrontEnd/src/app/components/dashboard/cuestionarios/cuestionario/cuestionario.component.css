@@ -1,0 +1,12 @@
+.chulo {
+  color: #007bff; /* Azul Bootstrap */
+  font-size: 24px; /* Tamaño más grande */
+  float: right; /* Alinearlo a la derecha */
+  margin-top: 5px; /* Separación superior para darle más espacio */
+  transition: transform 0.3s ease, color 0.3s ease; /* Transiciones suaves */
+}
+
+.chulo:hover {
+  color: #0056b3; /* Azul más oscuro al pasar el mouse */
+  transform: scale(1.2); /* Aumenta un poco el tamaño al hacer hover */
+}

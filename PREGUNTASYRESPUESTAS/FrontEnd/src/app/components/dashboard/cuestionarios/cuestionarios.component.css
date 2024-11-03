@@ -1,0 +1,29 @@
+.jumbotron{
+  background-color: white;
+}
+
+
+.btn-cuest{
+  padding: 1rem 2rem;
+  border-radius: 300px;
+}
+
+.radius {
+  width: 100px; /* Ancho del botón */
+  border-radius: 205px; /* Un borde más suave */
+  margin: 0 10px; /* Espaciado horizontal entre botones */
+  padding: 10px 15px; /* Espaciado interno para un mejor aspecto */
+  transition: background-color 0.3s ease; /* Transición suave al pasar el mouse */
+}
+
+/* Estilo adicional para el efecto hover */
+.radius:hover {
+  background-color: #28a745; /* Cambiar a un verde más oscuro o el color deseado */
+  color: white; /* Color del texto en hover */
+}
+
+/* Estilo específico para el botón de eliminar */
+.btn-danger.radius:hover {
+  background-color: #c82333; /* Cambiar a un rojo más oscuro o el color deseado */
+}
+

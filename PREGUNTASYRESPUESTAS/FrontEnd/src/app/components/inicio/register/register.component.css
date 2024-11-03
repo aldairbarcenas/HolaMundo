@@ -1,0 +1,17 @@
+.container{
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h3{
+  font-family: 'Rowdies','cursive';
+  font-size: 2.3em;
+}
+
+.btn-reg{
+  background-color: #f05f44;
+  border-color: #f05f44;
+
+}
+

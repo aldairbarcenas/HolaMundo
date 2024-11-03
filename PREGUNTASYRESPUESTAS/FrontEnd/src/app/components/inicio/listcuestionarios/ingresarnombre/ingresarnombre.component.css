@@ -1,0 +1,15 @@
+.container{
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-si{
+  background-color: orangered;
+  border-color: orangered;
+}
+
+input[placeholder]{
+  text-align: center;
+}
